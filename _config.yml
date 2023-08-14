@@ -126,7 +126,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/瀚玄-黃-988412164"
 
 # Site Footer
@@ -151,7 +151,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:      
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/瀚玄-黃-988412164"
 
 
