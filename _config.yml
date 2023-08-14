@@ -117,7 +117,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hhs456"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url:"https://www.linkedin.com/in/瀚玄-黃-988412164"
 
 # Site Footer
@@ -127,7 +127,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hhs456"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-link"
       url:"https://www.linkedin.com/in/瀚玄-黃-988412164"
 
 
