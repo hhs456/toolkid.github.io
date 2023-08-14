@@ -1,8 +1,12 @@
 # main links
 main:
+  - title: "首頁"
+    url: /index/
   - title: "關於"
     url: /about/
   - title: "作品"
     url: /collection/
   - title: "日誌"
     url: /blog/
+  - title: "聯繫"
+    url: /connact/
