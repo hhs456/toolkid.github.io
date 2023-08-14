@@ -115,7 +115,7 @@ author:
       url: "hhs456@yahoo.com.tw"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/hhs456"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
       url:"https://www.linkedin.com/in/瀚玄-黃-988412164"
@@ -125,7 +125,7 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:https://github.com/hhs456
+      url: "https://github.com/hhs456"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
       url:"https://www.linkedin.com/in/瀚玄-黃-988412164"
