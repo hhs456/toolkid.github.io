@@ -1,7 +1,8 @@
 # main links
 main:
+  - search_form: true 
   - title: "首頁"
-    url: /index/
+    url: /
   - title: "關於"
     url: /about/
   - title: "作品"
@@ -9,4 +10,4 @@ main:
   - title: "日誌"
     url: /blog/
   - title: "聯繫"
-    url: /contact/
+    url: /contact/   
